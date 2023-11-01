@@ -16,6 +16,8 @@ N/A
 Use the following link to access the deployed webpage: 
 https://dymoy.github.io/accessibility-challenge/
 
+The source code is found in the root directory of the main branch. 
+
 ## Visuals 
 
 !["Screenshot of the webpage."](./challenge1_screenshot.png)
