@@ -57,6 +57,7 @@ p {
     font-size: 16px;
 }
 
+/* Styles the image under the header. */
 #landing-img {
     height: 800px;
     width: 100%;
